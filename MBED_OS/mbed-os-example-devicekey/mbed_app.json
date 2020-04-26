@@ -1,0 +1,11 @@
+{
+    "target_overrides": {
+        "*": {
+            "platform.stdio-convert-newlines": 1
+        },
+        "NUCLEO_F756ZG": {
+            "storage.storage_type"                      : "TDB_INTERNAL",
+            "target.components_add" : ["FLASHIAP"]
+        }
+    }
+}

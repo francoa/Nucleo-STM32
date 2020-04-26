@@ -1,0 +1,8 @@
+**/BUILD
+**/*.zip
+**/*.bat
+**/*.lib
+**/*.hlt
+**/*.log
+**/*.mbed
+MBED_OS/mbed-os/
